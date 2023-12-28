@@ -1,0 +1,7 @@
+Noted :
+
+Folder terenkripsi ini merupakan hasil kombinasi serta eksekusi kunci yang tertera pada algoritrma RSA & AES  bersama dengan ransomeware sebagai dasar pemahaman enkripsi folder
+
+Folder ini disertakan guna memahami cara kerja dari serangan Ransome yang mengenkripsi UI serta data yang terdapat pada komputer target
+
+by , wilhelmusfao
